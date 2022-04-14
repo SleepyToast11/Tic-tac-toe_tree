@@ -1,4 +1,3 @@
-#
 #   CS304
 #   Assignment 3-tic-tac-toe
 #   March 24 2022
